@@ -1,0 +1,1 @@
+Todays docker notes: https://docker77.hashnode.dev/mastering-dockerfiles-your-ultimate-guide-to-container-image-creation
