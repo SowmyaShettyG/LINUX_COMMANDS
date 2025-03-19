@@ -96,4 +96,18 @@ date +”%M” Prints the Minute of the hour 00-59
 date +”%S” Prints the current seconds count in the
 minute (00-60)
 date +"%D" Prints Date in MM/DD/YY
-date +”%F” Prints only the Full date a
+date +”%F” Prints only the Full date as YYYY-MM-DD
+date +”%A” Prints the Day of the Week Saturday￾Sunday
+date +”%B” Prints the month between January￾December
+who Prints information about default user in
+our server
+lscpu Displays information about the CPU
+architecture
+lsblk -a Lists the information about all the block
+devices attached to the system
+free Displays system memory(RAM) details in
+KB
+free -m Displays system memory(RAM) details in
+MB
+df -h Report file system disk space usage in human
+readable languages
