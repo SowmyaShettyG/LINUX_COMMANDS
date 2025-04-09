@@ -112,3 +112,6 @@ free -m Displays system memory(RAM) details in
 MB
 df -h Report file system disk space usage in human
 readable languages
+to check ipaddress : ip addr
+ip route
+ifconfig
